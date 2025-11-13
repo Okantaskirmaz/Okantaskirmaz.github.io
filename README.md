@@ -1,6 +1,6 @@
 # Research Projects
 
-Hello! Welcome to my portfolio repository. These are the workings of some projects during my stint as a Senior Research Asst. at SUTD (and my graduation thesis from TU Delft). My work here delved into urban challenges of modern cities and the different approaches used to tackle them: community engagement through participatory design, GIS and data science. Each link leads to an elaboration of each phase and the documentation in code. 
+Hello! Welcome to my portfolio repository. Here you’ll find an overview of some of the projects I’ve worked on during my studies as an bachelor architecture student at TU Delft. My interests lie in the urban challenges of modern cities and the methods used to address them, including participatory design, GIS, and data-driven analysis. Each link provides a deeper look into the different phases of my projects and includes the corresponding documentation and code. 
 
 <br>
 
@@ -10,20 +10,10 @@ Hello! Welcome to my portfolio repository. These are the workings of some projec
     <div class="card">
       <img src="assets/Port cities 1.jpg" alt="Sfeerbeeld" />
       <div class="card-text">
-        TROPICA: Mapping natural habitats in Singapore with remote sensing and government datasets
+        (Re)Imagining Port Citites: Understanding Space, Society and Culture
       </div>
     </div>
   </a>
-
-  <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
-    <div class="card">
-      <img src="assets/Port Cities 2.jpg" alt="Sfeerbeeld" />
-      <div class="card-text">
-        TROPICA: Mapping natural habitats in Singapore with remote sensing and government datasets
-      </div>
-    </div>
-  </a>
-
 
 <hr>
 
