@@ -1,6 +1,6 @@
-# Minor, (Re)Imagining Port Cities: Understanding Space, Society and Culture
+# Minor, (Re)Imagining Port Cities: Understanding Space, Society and Culture Q1
 
-The final part of the minor, focuses on how the Maasboulevard near the Rhijnspoorkade in Rotterdam could evolve into a sustainable and maritime public space for the future. Positioned along the Nieuwe Maas, the site offers a unique interface between the city and the river, a place where movement, ecology, and leisure converge.
+The final part of the first quarter of the minor focuses on how the Maasboulevard near the Rhijnspoorkade in Rotterdam could evolve into a sustainable and maritime public space for the future. Positioned along the Nieuwe Maas, the site offers a unique interface between the city and the river, a place where movement, ecology, and leisure converge.
 
 <div class="rpc-container">
   <div class="rpc-text"></div>
