@@ -8,13 +8,21 @@ Hello! Welcome to my portfolio repository. These are the workings of some projec
 
   <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
     <div class="card">
-      <img src="assets/img/Habitats and Tree Canopy.png" alt="Map of natural spaces in Singapore" />
+      <img src="assets/Port cities 1.jpg" alt="Sfeerbeeld" />
       <div class="card-text">
         TROPICA: Mapping natural habitats in Singapore with remote sensing and government datasets
       </div>
     </div>
   </a>
 
+  <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
+    <div class="card">
+      <img src="assets/Port Cities 2.jpg" alt="Sfeerbeeld" />
+      <div class="card-text">
+        TROPICA: Mapping natural habitats in Singapore with remote sensing and government datasets
+      </div>
+    </div>
+  </a>
 
 
 <hr>
