@@ -4,6 +4,18 @@
 
 <div class="entry">
   <div class="entry-left">
+    Minor, (Re)Imagining Port Cities: Understanding Space, Society and Culture<br>
+    <em>Technische Universiteit Delft</em>
+  </div>
+  <div class="entry-right">
+    <em>2025 – 2026</em>
+  </div>
+</div>
+
+<br>
+
+<div class="entry">
+  <div class="entry-left">
     BSc, Bouwkunde<br>
     <em>Technische Universiteit Delft</em>
   </div>
@@ -16,11 +28,11 @@
 
 <div class="entry">
   <div class="entry-left">
-    Minor, (Re)Imagining Port Cities: Understanding Space, Society and Culture<br>
-    <em>Technische Universiteit Delft</em>
+    Propedeuse, Bouwkunde<br>
+    <em>De Haagse Hogeschool / The Hague University of Applied Sciences</em>
   </div>
   <div class="entry-right">
-    <em>2025 – 2026</em>
+    <em>2021 – 2022</em>
   </div>
 </div>
 
