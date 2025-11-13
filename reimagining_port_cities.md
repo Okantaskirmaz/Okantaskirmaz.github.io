@@ -3,9 +3,7 @@
 The final part of the minor, focuses on how the Maasboulevard near the Rhijnspoorkade in Rotterdam could evolve into a sustainable and maritime public space for the future. Positioned along the Nieuwe Maas, the site offers a unique interface between the city and the river, a place where movement, ecology, and leisure converge.
 
 <div class="rpc-container">
-  <div class="rpc-text">
-    <p>The final part of the minor, focuses on how the Maasboulevard near the Rhijnspoorkade in Rotterdam could evolve into a sustainable and maritime public space for the future. Positioned along the Nieuwe Maas, the site offers a unique interface between the city and the river, a place where movement, ecology, and leisure converge.</p>
-  </div>
+  <div class="rpc-text"></div>
   <div class="rpc-gallery">
     <a href="assets/Port Cities 1.jpg" target="_blank" rel="noopener">
       <img src="assets/Port Cities 1.jpg" alt="Port Cities concept image 1">
