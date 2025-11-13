@@ -56,7 +56,7 @@
 
 <div class="entry">
   <div class="entry-left">
-    Committee member | ExpresCie | <br>
+    <a href="https://vdglancet.nl/ondercommissies/" target="_blank">Committee member | ExpresCie</a> <br>
     <em>ExpresCie is a relatively new subcommittee of Lancet, dedicated to teaching students new skills through the organization of workshops and multi-day courses. Examples of activities include painting, screen printing, sculpting, or mindfulness. Together with four other enthusiastic students, I contribute to this committee to bring creativity and personal development to life.</em>
   </div>
   <div class="entry-right">
