@@ -10,7 +10,7 @@ Hello! Welcome to my portfolio repository. Here you’ll find an overview of sev
     <div class="card">
       <img src="assets/Port Cities 4.jpg" alt="Sfeerbeeld" />
       <div class="card-text">
-        Minor, (Re)Imagining Port Cities: Understanding Space, Society and Culture
+        Minor, (Re)Imagining Port Cities: Understanding Space, Society and Culture Q1
       </div>
     </div>
   </a>
