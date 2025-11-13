@@ -52,6 +52,8 @@
   </div>
 </div>
 
+<br>
+
 <div class="entry">
   <div class="entry-left">
     Committee member | ExpresCie | <br>
