@@ -1,8 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-
-a.btn[href="{{ site.github.owner_url }}"] {
-  display: none;
-}
