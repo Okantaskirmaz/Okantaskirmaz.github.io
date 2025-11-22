@@ -1,6 +1,6 @@
 # Studio de Nieuwe Tuinstad
 
-The final part of the first quarter of the minor focuses on how the Maasboulevard near the Rhijnspoorkade in Rotterdam could evolve into a sustainable and maritime public space for the future. Positioned along the Nieuwe Maas, the site offers a unique interface between the city and the river, a place where movement, ecology, and leisure converge.
+For ON4, I am designing a residential building in Het Kamrad, a green 1950s neighbourhood by Dudok in Hilversum. The assignment is to densify the area carefully without losing its existing spatial and landscape qualities. I explore how my design can connect to the characteristic structure of the neighbourhood and its direct relationship with the heath. Green living and nature-inclusive design are central themes in my approach. My building needs to achieve roughly 100 dwellings per hectare, with a mix of housing types and shared facilities. In the end, I translate these ideas into a clear design that shows how a contemporary new garden city can take shape within Het Kamrad.
 
 <div class="rpc-container">
   <div class="rpc-text"></div>
